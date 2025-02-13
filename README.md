@@ -1,2 +1,2 @@
 # Pank_test_repo
-To combine the projects for tomorrow presentations
+**This repository was create for combining the mini-projects for tomorrow presentations
